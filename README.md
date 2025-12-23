@@ -1,9 +1,9 @@
 <!--
-SPDX-FileCopyrightText: Your Name <your@email.com>
+SPDX-FileCopyrightText: Boris Valero <bvalero@framasoft.org>
 SPDX-License-Identifier: CC0-1.0
 -->
 
-# Nextcloud App Template
+# framaspace
 
 This is a starter template for a Nextcloud app, using Vue 3 with Vite as frontend.
 

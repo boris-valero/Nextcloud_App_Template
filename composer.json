@@ -1,6 +1,6 @@
 {
-  "name": "nextcloud/forum",
-  "description": "A community-driven forum built right into your Nextcloud instance",
+  "name": "nextcloud/framaspace",
+  "description": "A community-driven framaspac built right into your Nextcloud instance",
   "license": "AGPL-3.0-or-later",
   "authors": [
     {
@@ -11,7 +11,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "OCA\\Forum\\": "lib/"
+      "OCA\\Framaspace\\": "lib/"
     }
   },
   "scripts": {
