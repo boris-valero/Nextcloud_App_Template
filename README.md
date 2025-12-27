@@ -5,6 +5,12 @@ SPDX-License-Identifier: CC0-1.0
 
 # framaspace
 
+curl -s \
+  -H 'OCS-APIRequest: true' \
+  -H 'Accept: application/json' \
+  -u 'name_user:password_user' \
+  'http://localhost:8080/ocs/v2.php/cloud/apps?format=json'
+
 This is a starter template for a Nextcloud app, using Vue 3 with Vite as frontend.
 
 It also has a convenient file generator for when you will be developing your app.
